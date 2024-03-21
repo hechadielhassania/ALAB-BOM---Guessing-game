@@ -1,0 +1,13 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#game {
+    margin-top: 50px;
+}
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
